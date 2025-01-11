@@ -43,17 +43,28 @@ You can also run tests in headless mode using:
 
 
 ## Project Structure
-cypress/
-├── integration/
-│ ├── features/
-│ │ ├── login.feature
-│ │ ├── search.feature
-│ │ └── checkout.feature
-│ └── step_definitions/
-│ ├── login.js
-│ ├── search.js
-│ └── checkout.js
-└── fixtures/
+cypress/ 
+
+├── integration/ 
+
+│   ├── features/ 
+
+│   │   ├── login.feature 
+
+│   │   ├── search.feature 
+
+│   │   └── checkout.feature 
+
+│   └── step_definitions/ 
+
+│       ├── login.js 
+
+│       ├── search.js 
+
+│       └── checkout.js 
+
+└── fixtures/ 
+
 
 
 ## Contributing
